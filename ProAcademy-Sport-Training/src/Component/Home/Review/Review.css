@@ -1,0 +1,22 @@
+
+.review {
+  width: 50%;
+  height: 400px;
+  padding-bottom: 500px;
+
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+ background: #17171700;
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.swiper-slide img{
+  width: 60px ;
+}
+
